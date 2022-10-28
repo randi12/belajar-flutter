@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771257072394",
+    "project_id": "skripsibaru-bca46",
+    "storage_bucket": "skripsibaru-bca46.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771257072394:android:80fb7310332363e31958f3",
+        "android_client_info": {
+          "package_name": "com.example.skripsi_baru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771257072394-8a54t0abcsg0qdprld4k8etlo3012tr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJyFjFxkRDY3s0_GDBbzkHqqYrSYAymxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771257072394-8a54t0abcsg0qdprld4k8etlo3012tr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
